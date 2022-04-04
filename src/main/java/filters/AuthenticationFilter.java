@@ -1,4 +1,4 @@
-package ca.sait.securitydemo12.filters;
+package filters;
 
 import java.io.IOException;
 import java.io.PrintStream;
